@@ -1,0 +1,6 @@
+*.pyc
+*.png
+*.ui
+.idea
+__pycache__/
+ui_files/__pycache__/
