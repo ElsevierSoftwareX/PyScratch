@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="Main">
+    <file>icons/Scratch.png</file>
+    <file>icons/sairB.png</file>
+    <file>icons/salvarB.png</file>
+    <file>icons/startB.png</file>
+    <file>icons/stopB.png</file>
+  </qresource>
+</RCC>
