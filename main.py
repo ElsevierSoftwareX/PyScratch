@@ -5,7 +5,7 @@ matplotlib.use('Agg')
 from matplotlib import pyplot as plt
 from PySide.QtGui import *
 from PySide.QtCore import *
-from PySide import QtCore
+#from PySide import QtCore
 import find_quantity
 import normalizer
 import image_processing

@@ -68,7 +68,7 @@ def process_a_picture(path, nome, formato, corte):
     cv2.imwrite('image.png', im)
 
     # Salvando imagem de saida
-    path = path + '/saida'
+    path = path + '/Output'
     if not os.path.isdir(path):
         os.makedirs(path)
     filename = os.path.join(path, nome + '.tif')

@@ -1,0 +1,1 @@
+setx PATH C:\Python34;C:\Python34\Scripts;C:\Python34\Lib\site-packages;C:\Python34\Lib\site-packages\PySide;C:\Python34\Lib\site-packages\PySide\scripts

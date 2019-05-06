@@ -41,10 +41,11 @@ def treatment(im, corte, mostrar=False):
 
     return contours
 
+
 if __name__ == '__main__':
     corte = 2
-    path = "D:\GDrive\\repositorio git\pyscratch\\"
-    nome = 'A2_03_1_1_Phase Contrast_001'
+    path = "D:\\GDrive\\Fer\\170804_174239_Plate 1 - Copy\\"
+    nome = 'A1_03_1_1_Phase Contrast_001'
     formato = '.tif'
     im = cv2.imread(path + nome + formato)
     contours = treatment(im, corte, mostrar=True)
