@@ -12,16 +12,25 @@ If you don't yet have, [download and install git](https://git-scm.com/downloads)
 ---
 ## Dependencies
 **Windows users**
-Go to the folder ".\Dependencies" and execute the "install_all.bat" to install every thing that you need to run.
+
+Go to the folder ".\Dependencies" and execute the "install_all.bat" to install everything that you need to run.
 
 **Linux users**
+
 Install/update the following libraries:
+
 pip 
+
 opencv_python
+
 PySide
+
 pandas
+
 matplotlib
+
 numpy 
+
 
 ---
 ## Edit a file
